@@ -21,7 +21,7 @@
 		url('fonts/CrimsonText-SemiBold.ttf') format('ttf');
 }
 
-input[type="text"] {
+label {
 	font-family: 'CrimsonText-Bold';
 	font-weight: bold
 
